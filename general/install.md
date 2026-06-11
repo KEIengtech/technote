@@ -1,5 +1,5 @@
 # 윈도우11에서 SW설치
-## scoop 설치
+## scoop 설치: [참고](https://github.com/ScoopInstaller/Install#for-admin)  
 - 관리자 권한으로 쉘 열기
 - iex "& {$(irm get.scoop.sh)} -RunAsAdmin"
 ~~~
