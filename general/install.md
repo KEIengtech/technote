@@ -1,4 +1,4 @@
-# SW설치 on 윈도우11
+# 윈도우11에서 SW설치
 ## scoop 설치
 - 관리자 권한으로 쉘 열기
 - iex "& {$(irm get.scoop.sh)} -RunAsAdmin"
