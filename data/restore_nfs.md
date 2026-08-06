@@ -5,7 +5,7 @@
 $ sudo mkdir /mnt/backup
 $
 ~~~
-- 사용자 계정 생성
+- 사용자 계정 생성  
 ~~~
 $ sudo adduser sunakang
 [sudo] password for xman:
