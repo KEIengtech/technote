@@ -3,7 +3,10 @@
 - 
 ~~~
 $ sudo mkdir /mnt/backup
-$
+$ showmount -e [스토리지 IP]
+Export list for [스토리지 IP]:
+/data1    (everyone)
+/data2 [서버 IP1],[서버 IP2]
 ~~~
 - 사용자 계정 생성  
 ~~~
