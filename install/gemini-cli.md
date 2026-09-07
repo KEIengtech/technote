@@ -1,6 +1,16 @@
+- Antigravity CLI 이용!!!
 ~~~
 Failed to sign in. Message: This client is no longer supported for Gemini Code Assist for individuals. To continue │
 │   using Gemini, please migrate to the Antigravity suite of products: https://antigravity.google
+~~~
+~~~
+D:\>npm uninstall -g @google/gemini-cli
+
+removed 5 packages in 720ms
+
+D:\>rmdir /s /q "%USERPROFILE%\.gemini"
+
+D:\>
 ~~~
 ~~~
 D:\>npm install -g @google/gemini-cli
